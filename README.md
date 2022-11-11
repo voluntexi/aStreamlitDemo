@@ -1,0 +1,3 @@
+# aStreamlitDemo
+
+一个使用Streamlit对ClueAi进行文本摘要任务的API的示例
